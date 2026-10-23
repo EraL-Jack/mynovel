@@ -16,6 +16,10 @@ chapters/   正文
 meta/       进度与刷新记录
 ```
 
+## 整本下载
+
+`export/` 目录放有合并好的 txt：全本（UTF-8 与 GBK 两版）与六卷分卷，说明见 [`export/README.md`](export/README.md)。
+
 ## 阅读顺序
 
 1. `bible/world.md`（世界怎么运转）
